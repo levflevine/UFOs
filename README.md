@@ -22,8 +22,11 @@ Developing a web application dedicated to provide an in-depth analysis of UFO si
 
 - [UFO Sightings Source Data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_11/data.js)
 
-
 ## Results
+
+### Link to the Published Web App 
+
+[WebApp](https://levflevine.github.io/UFOs/)
 
 ### Web App (Top)
 
