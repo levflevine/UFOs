@@ -73,7 +73,7 @@ There are a few areas for improvement in the current App design:
 1. A user cannot enter a Date Range filter, only single dates can be selected
 2. There is not an opportunity for users to submit their evidence of new UFO sightings to add to the dataset
 3. There is no contact information in the App to reach out to the Journalist
-4. Users need to scroll down the page to get to the data section, which is inconvenient
+4. Users need to scroll down the page to get to the data section while there is too much free space at the top left side of the screen 
 5. The Comments column of the data table is too narrow: in the Mobile Device view, the space is not used efficiently
 6. There are no links to the UFO Associations / Organizations for further research of interested users
 7. There is no Feedback section to leave user comments & suggestions
@@ -89,7 +89,13 @@ Also, the data has a few drawbacks:
 1. Enable a filter for Date Range
 2. Enable a feature for users to submit their evidence of new UFO sightings that can be added to the dataset
 3. Add contact information to the App so that the users can reach out to the Journalist
-4. Add links to the filter section and/or position the filter closer to the top of the page 
+4. Add links to the filter section and/or position the filter at the top left side of the page, where there is much free space
 5. Expand the Comments column of the data table
 6. Add links to the UFO Associations / Organizations for further research of interested users
 7. Add the user feedback section
+
+The dataset can also be improved as follows:
+
+1. Make it up to date by adding more sighting events and details 
+2. Enhance the dataset with photo and video evidence 
+3. Provide more detailed comments and descriptions of the UFO sightings and observation circumstances 
